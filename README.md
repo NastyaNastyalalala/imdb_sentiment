@@ -16,11 +16,5 @@ For analysis we have the review itself and its classification:
 ## Task:
 The task is to predict the polarity (positive or negative) of review data (texts).
 
-## Step by step:
-1. Load Data
-2. Data Preprocessing
-3. Vectorizing Text
-4. Classification
-
 ## Results:
 Achieve 85% quality on the test sample
